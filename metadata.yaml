@@ -1,0 +1,5 @@
+homepage: "https://picked.app"
+documentation: "https://github.com/picked-app/gtm-template/README.md"
+versions:
+  - sha: TODO
+    changeNotes: Initial release.
