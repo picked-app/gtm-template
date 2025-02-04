@@ -3,9 +3,9 @@
 [Picked](https://www.picked.app/) is an AI-powered conversion rate optimization (CRO) tool designed to help eCommerce
 businesses get their brand and products *picked* more often by customers.
 
-## Installation
+## Automatic installation
 
-To install the Picked Ecommerce GTM Tag Template, follow these steps:
+To install the Picked Ecommerce GTM Tag Template from the Google Tag Manager Community Gallery, follow these steps:
 
 1. From within Tag Manager, click **Templates**.
 2. In the **Tag Templates** section, click **Search Gallery**.
@@ -13,8 +13,22 @@ To install the Picked Ecommerce GTM Tag Template, follow these steps:
 4. Click the Picked Ecommerce template to view the template details.
 5. To add the template, click **Add to workspace**.
 6. Review the required template permissions and click **Add**.
+7. Follow the instructions in the **Setup** section below.
 
 <img alt="picked-ecommerce-gtm.png" src="images/picked-ecommerce-gtm.png" width="400"/>
+
+## Manual installation
+
+To install the Picked Ecommerce GTM Tag Template manually, follow these steps:
+
+1. Download the [Picked Ecommerce GTM Tag Template](https://github.com/picked-app/gtm-template/blob/main/template.tpl)
+   file from this repository (look for the download icon)
+2. In Google Tag Manager, navigate to the **Templates** section.
+3. Click the **New** button.
+4. Click the **Import** button (in the three-dot menu).
+5. Select the downloaded template file.
+6. Click **Save**.
+7. Follow the instructions in the **Setup** section below.
 
 ## Setup
 
