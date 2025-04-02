@@ -146,8 +146,7 @@ const setInWindow = require('setInWindow');
 
 const LOG_PREFIX = 'picked_gtm: ';
 
-// todo: remove automation bypass
-const PICKED_GTM_URL = 'https://deliver.picked.app/sdk/picked-gtm.js';
+const PICKED_GTM_URL = 'https://api.picked.app/sdk/picked-gtm.js';
 
 log(LOG_PREFIX + 'data =', data);
 
@@ -310,7 +309,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://deliver.picked.app/sdk/picked-gtm.js"
+                "string": "https://api.picked.app/sdk/picked-gtm.js"
               },
               {
                 "type": 1,
