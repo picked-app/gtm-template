@@ -1,5 +1,7 @@
 homepage: "https://picked.app"
 documentation: "https://github.com/picked-app/gtm-template/blob/main/README.md"
 versions:
+  - sha: 579451345987c01db7427f13d27ee82783019eaf
+    changeNotes: Updated static assets domain.
   - sha: 5c8d3d55b9e36fa82ee7926fbad1f9dad6322ca3
     changeNotes: Initial release.
