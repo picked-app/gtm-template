@@ -1,4 +1,5 @@
-﻿___TERMS_OF_SERVICE___
+﻿
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -67,6 +68,10 @@ ___TEMPLATE_PARAMETERS___
       {
         "value": "wishlist_add",
         "displayValue": "Wishlist add (wishlist_add)"
+      },
+      {
+        "value": "checkout_start",
+        "displayValue": "Checkout start (checkout_start)"
       },
       {
         "value": "checkout_complete",
@@ -346,5 +351,6 @@ scenarios: []
 ___NOTES___
 
 Created on 20/01/2025, 16:58:48
+
 
 
