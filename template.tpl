@@ -1,4 +1,3 @@
-﻿
 ___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
@@ -50,14 +49,6 @@ ___TEMPLATE_PARAMETERS___
     "macrosInSelect": true,
     "selectItems": [
       {
-        "value": "page_view",
-        "displayValue": "Page view (page_view)"
-      },
-      {
-        "value": "lead_capture",
-        "displayValue": "Lead capture (lead_capture)"
-      },
-      {
         "value": "cart_add",
         "displayValue": "Cart add (cart_add)"
       },
@@ -66,20 +57,28 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Cart remove (cart_remove)"
       },
       {
-        "value": "wishlist_add",
-        "displayValue": "Wishlist add (wishlist_add)"
+        "value": "checkout_complete",
+        "displayValue": "Checkout complete (checkout_complete)"
       },
       {
         "value": "checkout_start",
         "displayValue": "Checkout start (checkout_start)"
       },
       {
-        "value": "checkout_complete",
-        "displayValue": "Checkout complete (checkout_complete)"
+        "value": "waitlist_join",
+        "displayValue": "Join waitlist (waitlist_join)"
       },
       {
-        "value": "search_results_list_view",
-        "displayValue": "Search results list view (search_results_list_view)"
+        "value": "lead_capture",
+        "displayValue": "Lead capture (lead_capture)"
+      },
+      {
+        "value": "page_view",
+        "displayValue": "Page view (page_view)"
+      },
+      {
+        "value": "product_list_view",
+        "displayValue": "Product list view (product_list_view)"
       },
       {
         "value": "product_select",
@@ -90,8 +89,12 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Product view details (product_view_details)"
       },
       {
-        "value": "product_list_view",
-        "displayValue": "Product list view (product_list_view)"
+        "value": "search_results_list_view",
+        "displayValue": "Search results list view (search_results_list_view)"
+      },
+      {
+        "value": "wishlist_add",
+        "displayValue": "Wishlist add (wishlist_add)"
       }
     ],
     "simpleValueType": true,
@@ -351,6 +354,4 @@ scenarios: []
 ___NOTES___
 
 Created on 20/01/2025, 16:58:48
-
-
 
