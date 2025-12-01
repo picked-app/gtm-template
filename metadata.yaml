@@ -1,6 +1,8 @@
 homepage: "https://picked.app"
 documentation: "https://github.com/picked-app/gtm-template/blob/main/README.md"
 versions:
+  - sha: 17437a4393aefaba46d18c8d30ca848fb8029cd3
+    changeNotes: Added waitlist_join event.
   - sha: c011ca37cc553975b5049c685ad65ed8c5dc0efc
     changeNotes: Added checkout_start event.
   - sha: 579451345987c01db7427f13d27ee82783019eaf
