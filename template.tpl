@@ -417,6 +417,15 @@ ___TEMPLATE_PARAMETERS___
         "alwaysInSummary": false
       }
     ]
+  },
+  {
+    "type": "SELECT",
+    "name": "additionalData",
+    "displayName": "Additional data",
+    "macrosInSelect": true,
+    "selectItems": [],
+    "simpleValueType": true,
+    "help": "An optional GTM variable containing additional data to include in the event metadata. This can be any value or object."
   }
 ]
 
@@ -634,4 +643,5 @@ scenarios: []
 ___NOTES___
 
 Created on 20/01/2025, 16:58:48
+
 
