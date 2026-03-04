@@ -1,6 +1,8 @@
 homepage: "https://picked.app"
 documentation: "https://github.com/picked-app/gtm-template/blob/main/README.md"
 versions:
+  - sha: 38c501bae9c15902cc3849b21012efe6ac3100d6
+    changeNotes: Added additional data field.
   - sha: daf13cc0dc99e519172aec475a9820f58856f3cb
     changeNotes: Added form, modal, exception, and custom events.
   - sha: 17437a4393aefaba46d18c8d30ca848fb8029cd3
